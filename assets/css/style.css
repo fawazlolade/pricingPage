@@ -72,11 +72,13 @@
     font-size: var(--title-font);
     font-family: var(--extrabold-font);
     text-align: center;
+
 }
 
 
 .paragraph-1_text{
     font-family: var(--reg-font);
+    margin-top: 10px;
     margin-bottom: 40px;
     text-align: center;
 }
